@@ -1,0 +1,15 @@
+Los endpoints principales de la Dragon Ball API en https://dragonball-api.com/ 
+se encuentran documentados en su sección oficial de documentación. Aunque el contenido exacto de los endpoints puede variar según la versión, los más comunes y útiles incluyen:
+
+/api/characters: Lista de todos los personajes.
+
+/api/characters/{id}: Detalle de un personaje específico por su ID.
+
+/api/transformations: Lista de transformaciones.
+
+/api/transformations/{id}: Detalle de una transformación específica.
+
+/api/planets: Lista de planetas.
+
+/api/planets/{id}: Detalle de un planeta específico.
+
